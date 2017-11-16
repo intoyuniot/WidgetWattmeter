@@ -1,0 +1,17 @@
+{
+    "name": "WidgetWattmeter",
+    "version": "1.0.0",
+    "keywords": "Widget,Wattmeter",
+    "description": "功率表应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetWattmeter.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
